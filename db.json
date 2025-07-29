@@ -1,108 +1,108 @@
 {
-  "students":[
-  {
-    "id": 1,
-    "name": "Aarav singh",
-    "username": "aaravsingh",
-    "email": "aarav.singh@example.com",
-    "address": {
-      "street": "12, Connaught Place",
-      "city": "New Delhi",
-      "zipcode": "110001"
+  "students": [
+    {
+      "id": 1,
+      "name": "Aarav singh",
+      "username": "aaravsingh",
+      "email": "aarav.singh@example.com",
+      "address": {
+        "street": "12, Connaught Place",
+        "city": "New Delhi",
+        "zipcode": "110001"
+      },
+      "phone": "+91 9876543210",
+      "website": "aaravsingh.in"
     },
-    "phone": "+91 9876543210",
-    "website": "aaravsingh.in"
-  },
-  {
-    "id": 2,
-    "name": "Priya Singh",
-    "username": "priyasingh",
-    "email": "priya.singh@example.com",
-    "address": {
-      "street": "45, Hazratganj",
-      "city": "Lucknow",
-      "zipcode": "226001"
+    {
+      "id": 2,
+      "name": "Priya Singh",
+      "username": "priyasingh",
+      "email": "priya.singh@example.com",
+      "address": {
+        "street": "45, Hazratganj",
+        "city": "Lucknow",
+        "zipcode": "226001"
+      },
+      "phone": "+91 8765432109",
+      "website": "priyasingh.co.in"
     },
-    "phone": "+91 8765432109",
-    "website": "priyasingh.co.in"
-  },
-  {
-    "id": 3,
-    "name": "Rohan chaudhary",
-    "username": "rohann",
-    "email": "rohan.ch@example.com",
-    "address": {
-      "street": "78, Sector 17",
-      "city": "Chandigarh",
-      "zipcode": "160017"
+    {
+      "id": 3,
+      "name": "Rohan chaudhary",
+      "username": "rohann",
+      "email": "rohan.ch@example.com",
+      "address": {
+        "street": "78, Sector 17",
+        "city": "Chandigarh",
+        "zipcode": "160017"
+      },
+      "phone": "+91 7654321098",
+      "website": "rohanch.net"
     },
-    "phone": "+91 7654321098",
-    "website": "rohanch.net"
-  },
-  {
-    "id": 4,
-    "name": "Neha Verma",
-    "username": "nehaverma",
-    "email": "neha.verma@example.com",
-    "address": {
-      "street": "23, Amer Road",
-      "city": "Jaipur",
-      "zipcode": "302002"
+    {
+      "id": 4,
+      "name": "Neha Verma",
+      "username": "nehaverma",
+      "email": "neha.verma@example.com",
+      "address": {
+        "street": "23, Amer Road",
+        "city": "Jaipur",
+        "zipcode": "302002"
+      },
+      "phone": "+91 6543210987",
+      "website": "nehaverma.org"
     },
-    "phone": "+91 6543210987",
-    "website": "nehaverma.org"
-  },
-  {
-    "id": 5,
-    "name": "Vikram Yadav",
-    "username": "vikramyadav",
-    "email": "vikram.yadav@example.com",
-    "address": {
-      "street": "56, Mall Road",
-      "city": "Kanpur",
-      "zipcode": "208001"
+    {
+      "id": 5,
+      "name": "Vikram Yadav",
+      "username": "vikramyadav",
+      "email": "vikram.yadav@example.com",
+      "address": {
+        "street": "56, Mall Road",
+        "city": "Kanpur",
+        "zipcode": "208001"
+      },
+      "phone": "+91 5432109876",
+      "website": "vikramyadav.in"
     },
-    "phone": "+91 5432109876",
-    "website": "vikramyadav.in"
-  },
-  {
-    "id": 6,
-    "name": "Simran Kaur",
-    "username": "simrankaur",
-    "email": "simran.kaur@example.com",
-    "address": {
-      "street": "34, Model Town",
-      "city": "Ludhiana",
-      "zipcode": "141002"
+    {
+      "id": 6,
+      "name": "Simran Kaur",
+      "username": "simrankaur",
+      "email": "simran.kaur@example.com",
+      "address": {
+        "street": "34, Model Town",
+        "city": "Ludhiana",
+        "zipcode": "141002"
+      },
+      "phone": "+91 9123456789",
+      "website": "simrankaur.co"
     },
-    "phone": "+91 9123456789",
-    "website": "simrankaur.co"
-  },
-  {
-    "id": 7,
-    "name": "Arjun singh",
-    "username": "arjunsingh",
-    "email": "arjun.singh@example.com",
-    "address": {
-      "street": "89, Rajpur Road",
-      "city": "Dehradun",
-      "zipcode": "248001"
+    {
+      "id": 7,
+      "name": "Arjun singh",
+      "username": "arjunsingh",
+      "email": "arjun.singh@example.com",
+      "address": {
+        "street": "89, Rajpur Road",
+        "city": "Dehradun",
+        "zipcode": "248001"
+      },
+      "phone": "+91 8212345678",
+      "website": "arjunsingh.net"
     },
-    "phone": "+91 8212345678",
-    "website": "arjunsingh.net"
-  },
-  {
-    "id": 8,
-    "name": "Kavya dahiya",
-    "username": "kavyadahiya",
-    "email": "kavya.dahiya@example.com",
-    "address": {
-      "street": "67, Civil Lines",
-      "city": "Agra",
-      "zipcode": "282002"
-    },
-    "phone": "+91 7321098765",
-    "website": "kavyadahiya.in"
-  }
- ]
-}  
+    {
+      "id": 8,
+      "name": "Kavya dahiya",
+      "username": "kavyadahiya",
+      "email": "kavya.dahiya@example.com",
+      "address": {
+        "street": "67, Civil Lines",
+        "city": "Agra",
+        "zipcode": "282002"
+      },
+      "phone": "+91 7321098765",
+      "website": "kavyadahiya.in"
+    }
+  ]
+}
