@@ -1,0 +1,116 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Aarav singh",
+      "username": "aaravsingh",
+      "email": "aarav.singh@example.com",
+      "address": {
+        "street": "12,nirman vihar",
+        "city": "New Delhi",
+        "zipcode": "110001"
+      },
+      "phone": "+91 9876543210",
+      "stream": "Computer Science",
+      "year": "2nd Year"
+    },
+    {
+      "id": 2,
+      "name": "Priya Singh",
+      "username": "priyasingh",
+      "email": "priya.singh@example.com",
+      "address": {
+        "street": "45, Hazratganj",
+        "city": "Lucknow",
+        "zipcode": "226001"
+      },
+      "phone": "+91 8765432109",
+      "stream": "Engineering",
+      "year": "3rd Year"
+    },
+    {
+      "id": 3,
+      "name": "Rohan Gupta",
+      "username": "rohangupta",
+      "email": "rohan.gupta@example.com",
+      "address": {
+        "street": "78, Sector 17",
+        "city": "Chandigarh",
+        "zipcode": "160017"
+      },
+      "phone": "+91 7654321098",
+      "stream": "Business Administration",
+      "year": "1st Year"
+    },
+    {
+      "id": 4,
+      "name": "Neha Verma",
+      "username": "nehaverma",
+      "email": "neha.verma@example.com",
+      "address": {
+        "street": "23, Amer Road",
+        "city": "Jaipur",
+        "zipcode": "302002"
+      },
+      "phone": "+91 6543210987",
+      "stream": "Medicine",
+      "year": "4th Year"
+    },
+    {
+      "id": 5,
+      "name": "Vikram Yadav",
+      "username": "vikramyadav",
+      "email": "vikram.yadav@example.com",
+      "address": {
+        "street": "56, Mall Road",
+        "city": "Kanpur",
+        "zipcode": "208001"
+      },
+      "phone": "+91 5432109876",
+      "stream": "Arts",
+      "year": "2nd Year"
+    },
+    {
+      "id": 6,
+      "name": "Simran Kaur",
+      "username": "simrankaur",
+      "email": "simran.kaur@example.com",
+      "address": {
+        "street": "34, Model Town",
+        "city": "Ludhiana",
+        "zipcode": "141002"
+      },
+      "phone": "+91 9123456789",
+      "stream": "Economics",
+      "year": "3rd Year"
+    },
+    {
+      "id": 7,
+      "name": "Arjun",
+      "username": "arjun",
+      "email": "arjun.singh@example.com",
+      "address": {
+        "street": "89, Rajpur Road",
+        "city": "Dehradun",
+        "zipcode": "248001"
+      },
+      "phone": "+91 8212345678",
+      "stream": "Physics",
+      "year": "1st Year"
+    },
+    {
+      "id": 8,
+      "name": "Kavya",
+      "username": "kavyasingh",
+      "email": "kavya.singh@example.com",
+      "address": {
+        "street": "67, Civil Lines",
+        "city": "Agra",
+        "zipcode": "282002"
+      },
+      "phone": "+91 7321098765",
+      "stream": "History",
+      "year": "4th Year"
+    }
+  ]
+}
